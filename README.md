@@ -39,7 +39,8 @@ Use the elbow method to find the best value for k using the following steps:
 2. Create an empty list to store the inertia values.
 3. Create a for loop to compute the inertia with each possible value of k.
 4. Create a dictionary with the data to plot the elbow curve. Plot a line chart with all the inertia values computed with the different values of k to visually identify the optimal value for k.
-5. Answer the following question in your notebook: **What is the best value for k?**
+5. Answer the following question in your notebook:
+     - What is the best value for k?
    
 #### Cluster Cryptocurrencies with K-means Using the Original Scaled Data
 
